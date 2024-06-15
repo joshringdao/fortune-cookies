@@ -3,12 +3,12 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 20px;
+  
 }
 
 .text-section {
   width: 50%;
-  font-size: 25px;
+  font-size: 10px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   background-color: lightcyan;
 }
@@ -20,4 +20,8 @@
 .site-header {
   cursor: pointer;
   color: darkslategray;
+}
+.padding {
+ padding-top:20px;
+ padding-bottom:50px;
 }
