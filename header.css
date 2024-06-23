@@ -33,12 +33,12 @@ body, html {
 
 .link1 {
   cursor: pointer;
-  
+  font-size:20px;
   text-align: center;
   background-color: red;
   color: blanchedalmond;
-   
- 
+  padding:10px 15px;
+  border-radius: 10px
   transition: opacity 0.15s;
 }
 
