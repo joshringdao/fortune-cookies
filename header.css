@@ -14,7 +14,13 @@ body, html {
   background-color: lightpink;
 }
 
-.left-section, .right-section {
+.left-section {
+ width: 10%;
+}
+
+
+
+.right-section {
   width: 150px;
 }
 
@@ -24,7 +30,7 @@ body, html {
 }
 
 .search-bar {
-  width: 70%;
+  width: 100%;
   padding: 10px;
 }
 
